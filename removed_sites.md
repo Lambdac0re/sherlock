@@ -1650,7 +1650,7 @@ As of  2022.02.25, WeHeartIt no longer allows us to check for usersnames through
 ## Tinder
 As of 2022.03.15, Tinder returns false positives. We will try to rev the API endpoint on the android app to find a better soon
 
-```
+```json
 "Tinder": {
     "errorMsg": [
       "<title data-react-helmet=\"true\">Tinder | Dating, Make Friends &amp; Meet New People</title>",
